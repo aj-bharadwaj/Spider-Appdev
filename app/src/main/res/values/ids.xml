@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mine" type="id" />
+    <item name="Rm" type="id" />
+    <item name="b4" type="id" />
+    <item name="b3" type="id" />
+    <item name="b2" type="id" />
+    <item name="b1" type="id" />
+    <item name="reset" type="id" />
+    <item name="bg" type="id" />
+</resources>
